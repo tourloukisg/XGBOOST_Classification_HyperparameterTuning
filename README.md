@@ -1,2 +1,2 @@
 # XGBOOST_Classification_HyperparameterTuning
-XgboostClassifier for Classification and RandomizedSearchCV for Hyperparameter Tuning
+Xgboost Classifier for Classification and RandomizedSearchCV for Hyperparameter Tuning
